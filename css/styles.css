@@ -18,7 +18,7 @@ body{
   position: sticky;
   top: 0;
   z-index: 1000;
-  background: linear-gradient(135deg, #000000, #000000);
+  background: linear-gradient(135deg, #000000, #ff6600);
   color: rgb(252, 101, 0);
   padding: 18px 20px;
   box-shadow: 0 4px 15px rgba(0,0,0,0.25);
